@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Pedro",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "pedro
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "PizzaSMP-ay91.aternos.me",
+    "port": 21868,
     "version": "",
     "try-creative": false
   },
